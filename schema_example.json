@@ -1,0 +1,12 @@
+{
+  "date":"timestamp:",
+  "date2":"timestamp:data",
+  "name": "str:rand",
+  "height":"int:rand",
+  "cat": "str:cat",
+  "int": "int:5",
+  "type": "['client', 'partner', 'government']",
+  "age": "int:rand(1, 90)",
+  "null": "int:",
+  "empty_str": "str:"
+}
